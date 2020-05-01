@@ -1,2 +1,2 @@
-# Realm AssignmentA
+# Realm Assignment
 Android Workshop assignment 3
